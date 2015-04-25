@@ -2,9 +2,9 @@
  
 void main()
 {
-   int value = 1;
+   int value = 2;
  
-   while(value<5)
+   while(value<20)
    {
       printf("Value is %d\n", value);
       value++;
